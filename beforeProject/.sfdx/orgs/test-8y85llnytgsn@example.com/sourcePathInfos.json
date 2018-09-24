@@ -1,0 +1,764 @@
+[
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537829152612,
+            "changeTime": 1537829152612,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537829152612,
+            "changeTime": 1537829152612,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1537829173126,
+            "changeTime": 1537829173126,
+            "contentHash": "d58bf88e6454743a4b57ae8ea1931fde6e8c0c96"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1537829152612,
+            "changeTime": 1537829152612,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject",
+        {
+            "state": "n",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1537829165927,
+            "changeTime": 1537829165927,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/Order.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/Order.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3209,
+            "modifiedTime": 1537829173053,
+            "changeTime": 1537829173053,
+            "contentHash": "b33d2ef4b79ee471a6c27079863053dce5b3ed64"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/compactLayouts/OrderLayout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/compactLayouts/OrderLayout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 328,
+            "modifiedTime": 1537829173053,
+            "changeTime": 1537829173053,
+            "contentHash": "5861e47439dba3c122b1c710a678399c64bed8e7"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/AccountId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1537829173054,
+            "changeTime": 1537829173054,
+            "contentHash": "bbc48dd990ee01ea22e78922a8a9d027037450f0"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/AccountNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 155,
+            "modifiedTime": 1537829173054,
+            "changeTime": 1537829173054,
+            "contentHash": "1bb6eeec45acc4c261033a8618c774bbf8d3d13d"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ActivatedById.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ActivatedById.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 218,
+            "modifiedTime": 1537829173055,
+            "changeTime": 1537829173055,
+            "contentHash": "82beff33fe3b680b3be1002c1f4e43dff595a85c"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ActivatedDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ActivatedDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1537829173055,
+            "changeTime": 1537829173055,
+            "contentHash": "095614642f21444f5cdab290610837b5aeb4ca81"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/BillToContactId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/BillToContactId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1537829173055,
+            "changeTime": 1537829173055,
+            "contentHash": "807772f93d8faf9acfd062c8c431f18f9552591b"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/BillingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1537829173056,
+            "changeTime": 1537829173056,
+            "contentHash": "188543be0ef836052eee07caecfe1c156612be14"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/CompanyAuthorizedById.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/CompanyAuthorizedById.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1537829173056,
+            "changeTime": 1537829173056,
+            "contentHash": "73ad1a091c2761917e1ff91c6ac85544b6b3914b"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/CompanyAuthorizedDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/CompanyAuthorizedDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1537829173057,
+            "changeTime": 1537829173057,
+            "contentHash": "a9fe9cd848fcd806e9ea7b27b91f65d481ac4ced"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ContractEndDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ContractEndDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 157,
+            "modifiedTime": 1537829173057,
+            "changeTime": 1537829173057,
+            "contentHash": "9df1b557914cc86fa440001482b8a9553a6702a3"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ContractId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ContractId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 215,
+            "modifiedTime": 1537829173057,
+            "changeTime": 1537829173057,
+            "contentHash": "ee0169398662c39edd2f6976eb3956a518a6c447"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ContractName.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ContractName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 154,
+            "modifiedTime": 1537829173058,
+            "changeTime": 1537829173058,
+            "contentHash": "84a50e0d2a66bcbb6be939ce103a9910fc3fab93"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/CustomerAuthorizedById.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/CustomerAuthorizedById.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 226,
+            "modifiedTime": 1537829173058,
+            "changeTime": 1537829173058,
+            "contentHash": "e9a3c0cad36b10367b77c26c681a45d24ef0e0fc"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/CustomerAuthorizedDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/CustomerAuthorizedDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1537829173059,
+            "changeTime": 1537829173059,
+            "contentHash": "d2001d96a19fe914100b1e4fe2087b0c91a64487"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/Description.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1537829173059,
+            "changeTime": 1537829173059,
+            "contentHash": "7531d10e8ad259792e3aa0a47a4b28467b3cff8a"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/EffectiveDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/EffectiveDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1537829173059,
+            "changeTime": 1537829173059,
+            "contentHash": "1ff7a3bab7a4a90ee0bb4e43ce05dc2854292af0"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/EndDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/EndDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1537829173060,
+            "changeTime": 1537829173060,
+            "contentHash": "4eb1e112b03a87b8b7c7ab3f24d9dbcdcf7a6570"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/IsReductionOrder.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/IsReductionOrder.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 158,
+            "modifiedTime": 1537829173060,
+            "changeTime": 1537829173060,
+            "contentHash": "78d56b566be89c6a311f2a73675f7c617629c56f"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/Name.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 184,
+            "modifiedTime": 1537829173061,
+            "changeTime": 1537829173061,
+            "contentHash": "8c663b772d523d88e0da6fbd6ae24d28bb48bb93"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/OpportunityId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/OpportunityId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 218,
+            "modifiedTime": 1537829173061,
+            "changeTime": 1537829173061,
+            "contentHash": "6f4e41add7ddaf2e7bf3234c8a27a685e9a4ecf1"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/OrderReferenceNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/OrderReferenceNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1537829173062,
+            "changeTime": 1537829173062,
+            "contentHash": "7cf19520a8314a36d73b01628ad627582337aedc"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/OriginalOrderId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/OriginalOrderId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 181,
+            "modifiedTime": 1537829173062,
+            "changeTime": 1537829173062,
+            "contentHash": "bf638dbf97880900c34398076c0f131e6a89fb35"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/OwnerId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1537829173062,
+            "changeTime": 1537829173062,
+            "contentHash": "3ca51b7db67343442d0910383a1008e625f90db4"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/PoDate.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/PoDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 186,
+            "modifiedTime": 1537829173063,
+            "changeTime": 1537829173063,
+            "contentHash": "b8678c901d748b15b93f2e5bb71ce90686e7656d"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/PoNumber.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/PoNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1537829173063,
+            "changeTime": 1537829173063,
+            "contentHash": "153665d4ae00384ab97c84470dce2af60feca4c8"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ShipToContactId.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ShipToContactId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1537829173063,
+            "changeTime": 1537829173063,
+            "contentHash": "a938f478731265afa7ac9529e132ce8dc66f5dff"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ShippingAddress.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1537829173064,
+            "changeTime": 1537829173064,
+            "contentHash": "d7b2a8544ec4e11a8d63bba5714eabe48befa4dd"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ShippingCost__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/ShippingCost__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 650,
+            "modifiedTime": 1537829173064,
+            "changeTime": 1537829173064,
+            "contentHash": "513c7fd905c673335f38a13237fd0210f0500043"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/TotalAmount.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/TotalAmount.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1537829173064,
+            "changeTime": 1537829173064,
+            "contentHash": "0747ce4e17b7a37e2900ffddece756a166e266f5"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/Type.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1537829173065,
+            "changeTime": 1537829173065,
+            "contentHash": "384c51e00323bded4b0929e2e56f315288e66451"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt/Shipping_Policy__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt/Shipping_Policy__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 335,
+            "modifiedTime": 1537829173090,
+            "changeTime": 1537829173090,
+            "contentHash": "49d5eaa587b4c6d9aed061055c3b518245dce8e5"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt/fields/Cost__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt/fields/Cost__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 574,
+            "modifiedTime": 1537829173090,
+            "changeTime": 1537829173090,
+            "contentHash": "b37b0c1cb1afd28d9c602751432f43a4fb0fc4fa"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt/fields/States__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt/fields/States__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 550,
+            "modifiedTime": 1537829173090,
+            "changeTime": 1537829173090,
+            "contentHash": "74672c6c1d57b4c4e1cbc4a87ca1535e88567cd7"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/layouts/Order-Order Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/layouts/Order-Order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5744,
+            "modifiedTime": 1537829173104,
+            "changeTime": 1537829173104,
+            "contentHash": "92c0b799ba0f30f138ed7e513130c9fb44b0df03"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/layouts/Shipping_Policy__mdt-Shiping Policy Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/layouts/Shipping_Policy__mdt-Shiping Policy Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2469,
+            "modifiedTime": 1537829173107,
+            "changeTime": 1537829173107,
+            "contentHash": "67d4f48485ca692db5bb924240c0bd639eff6aeb"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations/Shipping_Policy__mdt-en_US/Shipping_Policy__mdt-en_US.objectTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations/Shipping_Policy__mdt-en_US/Shipping_Policy__mdt-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1537829173111,
+            "changeTime": 1537829173111,
+            "contentHash": "c7425d96e13e0c84f029a6f71a8e872cf2501ad8"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations/Shipping_Policy__mdt-en_US/Cost__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations/Shipping_Policy__mdt-en_US/Cost__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 272,
+            "modifiedTime": 1537829173111,
+            "changeTime": 1537829173111,
+            "contentHash": "f43b492ad360b873e653672f02e47fe1228ff344"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations/Shipping_Policy__mdt-en_US/States__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations/Shipping_Policy__mdt-en_US/States__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 276,
+            "modifiedTime": 1537829173112,
+            "changeTime": 1537829173112,
+            "contentHash": "7d3da8e3d387e8db96204ca1bad9f569d0393b8c"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22085,
+            "modifiedTime": 1537829173133,
+            "changeTime": 1537829173133,
+            "contentHash": "83e50a1667a4a3e90fed1f6906e6411b18743584"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8218,
+            "modifiedTime": 1537829173139,
+            "changeTime": 1537829173139,
+            "contentHash": "54d9c8fdb2a8cec643fe98b6573630caf99618ca"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8218,
+            "modifiedTime": 1537829173148,
+            "changeTime": 1537829173148,
+            "contentHash": "54d9c8fdb2a8cec643fe98b6573630caf99618ca"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8556,
+            "modifiedTime": 1537829173156,
+            "changeTime": 1537829173156,
+            "contentHash": "f1234beaea55d7f381982029cd92be49a37a9282"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1537829173054,
+            "changeTime": 1537829173054,
+            "contentHash": "c7f7eaa1a0d430077ad249df82f5f346fb19e47f"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1537829173089,
+            "changeTime": 1537829173089,
+            "contentHash": "3e9047894f85dc5f2854d59ce9e430b0470bf7a2"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537829173053,
+            "changeTime": 1537829173053,
+            "contentHash": "e6362135612844ab535aaecf9f3936a2823e175a"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Order/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 992,
+            "modifiedTime": 1537829173065,
+            "changeTime": 1537829173065,
+            "contentHash": "fb53b7545fc04dd2c37b6974dec5745d2c41e928"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1537829173090,
+            "changeTime": 1537829173090,
+            "contentHash": "421604893655f601b99a5725e0f2e7cb39e8edf6"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objects/Shipping_Policy__mdt/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1537829173090,
+            "changeTime": 1537829173090,
+            "contentHash": "a064186698e4d94d923207e287ba48d9476ed979"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1537829173107,
+            "changeTime": 1537829173107,
+            "contentHash": "d4df1071190f44bcafbfb34212ad1e112594d2ed"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations/Shipping_Policy__mdt-en_US",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations/Shipping_Policy__mdt-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1537829173112,
+            "changeTime": 1537829173112,
+            "contentHash": "4ccf0f7ca955a967ec1df137fcd5547b9fd7e551"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537829173111,
+            "changeTime": 1537829173111,
+            "contentHash": "059d61fe747e4e52e84d7fabeacaf0c36f445de6"
+        }
+    ],
+    [
+        "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cgrabill/Debugging/Dreamforce/DF18-CMT-Formula/beforeProject/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1537829173156,
+            "changeTime": 1537829173156,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]

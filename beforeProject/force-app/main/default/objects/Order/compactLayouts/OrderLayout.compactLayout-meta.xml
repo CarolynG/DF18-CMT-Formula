@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>OrderLayout</fullName>
+    <fields>OrderNumber</fields>
+    <fields>TotalAmount</fields>
+    <fields>ShippingAddress</fields>
+    <fields>ShippingCost__c</fields>
+    <label>OrderLayout</label>
+</CompactLayout>
